@@ -5,7 +5,7 @@ React + Vite ile geliştirilmiş olup, hem masaüstü hem mobil için uygundur.
 
 ---
 ## Live Demo
-[Genel Kültür Testi’ni Canlı Deneyin →](https://general-culture-question-app.netlify.app/)
+- **Live Site:** (https://general-culture-question-app.netlify.app/)
 ---
 
 ## 🚀 Özellikler
