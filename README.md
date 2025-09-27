@@ -46,22 +46,22 @@ question-app/
 
 ## 🛠️ Kurulum ve Çalıştırma
 
-```bash
-# Projeyi klonla
+
+1. Projeyi klonla
 git clone https://github.com/selinbsa/question-app.git
 cd question-app
 
-# Bağımlılıkları yükle
+2.  Bağımlılıkları yükle
 npm install
 
-# Geliştirme sunucusunu başlat
+3.  Geliştirme sunucusunu başlat
 npm run dev
 
-# Ardından tarayıcıdan http://localhost:5173 adresine git.
+4.  Ardından tarayıcıdan http://localhost:5173 adresine git.
 
 ---
 
-# 💡 Kullanım
+## 💡 Kullanım
 
 1. Teste Başla butonuna tıkla
 
@@ -85,7 +85,7 @@ npm run dev
 
 - Görseller taşmadan ekrana sığar (object-fit: contain)
 
-# 🧩 Teknolojiler
+## 🧩 Teknolojiler
 
 React 18 + Vite
 
@@ -95,7 +95,7 @@ CSS Grid / Flexbox ile responsive tasarım
 
 Custom React Hook (useCountdown)
 
-# 🙌 Katkı
+## 🙌 Katkı
 
 Pull request açabilir veya issue oluşturabilirsin.
 Projeyi geliştirmek için fikirlerin varsa discussions kısmında paylaşabilirsin.
